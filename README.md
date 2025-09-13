@@ -40,10 +40,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" alt="Coding gif" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sh1nom1ya&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1nom1ya&layout=compact&theme=aura" alt="Top Langs" height="165"/>
 </p>
