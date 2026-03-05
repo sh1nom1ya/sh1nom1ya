@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Shinomiya</h1>
+<h1 align="center">Shinomiya</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sh1nom1ya&color=blueviolet" alt="Profile views" />
