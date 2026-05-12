@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=26&duration=500&pause=5000&color=8540FF&center=false&vCenter=true&width=45&lines=C%23" alt="C#" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=26&duration=500&pause=5000&color=B584FF&center=false&vCenter=true&width=120&lines=ASP.NET" alt="ASP.NET" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=&size=26&duration=500&pause=5000&color=8540FF&center=false&vCenter=true&width=45&lines=C%23" alt="C#" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=26&duration=500&pause=5000&color=B584FF&center=false&vCenter=true&width=120&lines=ASP.NET" alt="ASP.NET" /> -->
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=26&duration=500&pause=5000&color=FFFFFF&center=false&vCenter=true&width=138&lines=developer" alt="developer" />
 </p>
 
